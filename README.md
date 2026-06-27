@@ -77,8 +77,6 @@ Fase 5 ⏳  Dados & IA aplicada a sistemas corporativos
 
 ---
 
-## Estatísticas
-
 ## Tecnologias & Ferramentas
 
 <!-- LEGENDA: 🔵 Em desenvolvimento ativo · ⚫ Consolidadas · ⬜ Roadmap -->
